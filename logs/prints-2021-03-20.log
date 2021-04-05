@@ -1,0 +1,8 @@
+16:25:23.189 [main] INFO  resources.Base - closing the browser
+16:25:49.574 [main] INFO  resources.Base - user trying to login
+16:25:52.722 [main] INFO  resources.Base - user trying to login
+17:11:20.478 [main] INFO  resources.Base - initializing the driver
+17:11:25.905 [main] INFO  resources.Base - navigating to url
+17:11:31.277 [main] INFO  resources.Base - closing the browser
+17:11:45.707 [main] INFO  resources.Base - user trying to login
+17:11:50.264 [main] INFO  resources.Base - user trying to login
